@@ -68,7 +68,7 @@ p, span, button {
     font-size: 12px;
 }
  span {
-     white-space: normal;
+     white-space: nowrap;
  }
 
  button {
