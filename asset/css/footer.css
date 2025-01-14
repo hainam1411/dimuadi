@@ -1,0 +1,33 @@
+.footer-menu {
+    background: #DCE3EC;
+
+}
+.f-menu {
+    margin-left: 5px;
+}
+
+.footer-item ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-item ul li a {
+
+    font-size: 12px;
+}
+
+.footer-second {
+    background-color: #687481;
+    justify-content: center;
+    text-align: center;
+}
+
+.company-info {
+    line-height: 5px;
+    padding: 20px 40px;
+    color: var(--bs-white);
+    font-size: 12px;
+}
+
+

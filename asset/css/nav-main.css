@@ -2,11 +2,10 @@
     height: 36px;
     text-align: right;
     background-color: #e5e5e5;
-    padding-right: 20px;
+    /*padding-right: 20px;*/
     overflow: hidden;
 }
 .List-top-nav {
-    max-width: 992px;
     margin: auto !important;
     position: relative;
     text-align: right;
