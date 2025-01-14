@@ -1,0 +1,104 @@
+.top-nav {
+    height: 36px;
+    text-align: right;
+    background-color: #e5e5e5;
+    padding-right: 20px;
+    overflow: hidden;
+}
+.List-top-nav {
+    max-width: 992px;
+    margin: auto !important;
+    position: relative;
+    text-align: right;
+    bottom: 5px;
+}
+
+.tv-text {
+    font-size: 13px;
+    color: #3d3f40;
+}
+
+.main-nav {
+    background: #44bd32;
+    height: 60px;
+}
+.box-header {
+    max-width: 992px;
+    padding: 12px 0;
+}
+.main-nav ul {
+    position: relative;
+}
+.main-nav li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#opensidebarmenu {
+    background-color: transparent;
+    opacity: 0;
+}
+.sidebar-icon-toggle {
+    width: 24PX;
+    height: 24px;
+    z-index: 20;
+    top: 10px;
+    left: 0;
+    cursor: pointer;
+    background: #44bd32;
+}
+.spinner {
+    margin-bottom: 4px;
+    height: 3px;
+    background: white;
+    transition: all .3s;
+    border-radius: 5px;
+}
+
+.logo-li {
+    left: -25px;
+    bottom: 3px;
+}
+logo-li .logo img.web-logo {
+    position: relative;
+    top: 2px;
+}
+.header-search-box .group-input-search {
+    display: block;
+}
+.header-search-box .group-input-search .input-search-pc {
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 100%;
+    padding: 10px 12px;
+    height: 36px;
+    position: relative;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.auto-searchicon {
+    cursor: pointer;
+    background: url(https://shop.dimuadi.vn/_next/static/media/search-normal.dc702514c5fa3db7359c8e477326514a.png) no-repeat;
+    width: 24px;
+    display: block;
+    height: 24px;
+    z-index: 3;
+}
+.search-li {
+    width: 65%;
+    left: -40px;
+}
+.addons-search {
+    top: 7px;
+    right: 12px;
+}
+.carticon {
+    position: relative;
+}
+
+.main-menu .cart-mob.ic-cart {
+    position: relative;
+    left: -12px;
+}
