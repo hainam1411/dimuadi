@@ -45,6 +45,7 @@
     padding: 0;
 }
 .container-fluid {
+    width:992px;
     background-color: #E5EBED;
     padding: 0;
 }
