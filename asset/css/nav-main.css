@@ -24,11 +24,7 @@
 .box-header {
     padding: 12px 0;
 }
-.main-nav li {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
+
 #opensidebarmenu {
     background-color: transparent;
     opacity: 0;
