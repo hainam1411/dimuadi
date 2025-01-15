@@ -2,6 +2,7 @@
     min-height: 80vh;
     background: var(--color-gray-soft);
 }
+
 .top-home-image {
     padding: 16px 0;
     background: var(--color-gray-light);
@@ -25,6 +26,7 @@
     box-sizing: border-box;
     margin: 0;
 }
+
 .top-image img {
     max-width: 100%;
     display: block;
@@ -78,9 +80,6 @@
     font-weight: 700;
 }
 
-.box-product {
-
-}
 .scroll-product {
     background: var(--bs-white);
     padding: 14px;
@@ -88,14 +87,18 @@
     border-radius: 10px;
 }
 
+.title-prod {
+    font-size: 13px;
+}
+
 .cur-price, .sale-price, .sell {
     font-weight: 700;
     line-height: 24px;
-    font-size: 18px;
     color: var(--color-product-text);
 }
+
 .sale-price {
-    color: var(--color-product-sale) ;
+    color: var(--color-product-sale);
     text-decoration: line-through;
 }
 
@@ -107,9 +110,16 @@
 .voucher-title {
     padding-right: 14px;
 }
+
 .scroll-voucher {
     padding: 14px;
 }
+
+.best-seller {
+    background: url(https://shop.dimuadi.vn/_next/static/media/bg-prod-sale.f277666a353432da77d84d9cd5d74d3e.jpg);
+    background-size: cover;
+}
+
 
 
 
