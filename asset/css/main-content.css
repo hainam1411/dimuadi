@@ -119,6 +119,9 @@
     background: url(https://shop.dimuadi.vn/_next/static/media/bg-prod-sale.f277666a353432da77d84d9cd5d74d3e.jpg);
     background-size: cover;
 }
+.discount-price {
+    text-decoration: none;
+}
 
 
 
