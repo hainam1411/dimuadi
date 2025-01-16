@@ -1,6 +1,7 @@
 @media screen and (max-width: 900px) {
     .top-banner,
     .prod-items,
+    .category,
     .item-voucher,
     .slick-list {
         overflow-x: scroll;
@@ -44,3 +45,15 @@
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
+
+@media screen and (max-width: 385px) {
+    .list_item_banner,
+    .banner {
+        display: none !important;
+    }
+    .mobile,
+    .banner_under_mobile {
+        display: block !important;
+    }
+}
+
