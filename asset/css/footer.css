@@ -1,4 +1,4 @@
-.footer-menu {
+.footer{
     background: #DCE3EC;
 
 }
@@ -7,6 +7,10 @@
 /*}*/
 .f-menu {
     margin-left: 5px;
+}
+.footer-menu
+{
+    max-width: 992px;
 }
 
 .footer-item ul {
