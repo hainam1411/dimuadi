@@ -1,0 +1,46 @@
+@media screen and (max-width: 900px) {
+    .top-banner,
+    .prod-items,
+    .item-voucher,
+    .slick-list {
+        overflow-x: scroll;
+    }
+    .list-item-home,
+    .box-scroll {
+        justify-content: unset;
+        overflow-x: scroll;
+    }
+    .search-li,
+    .logo-li {
+        display: none;
+    }
+    .logo_mobile,
+    .mobile_search {
+        display: block;
+    }
+    .btn_pres,
+    .btn_next {
+        display: none;
+    }
+    .slick-list li {
+        min-width: 158px;
+        text-align: center;
+    }
+    .slick-list {
+        justify-content: unset;
+    }
+}
+@media screen and (max-width:600px) {
+    .recommend-prod {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+@media screen and (max-width: 500px) {
+    .search-li,
+    .logo-li {
+        display: none;
+    }
+    .recommend-prod {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
