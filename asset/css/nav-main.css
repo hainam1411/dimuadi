@@ -25,6 +25,9 @@
 .box-header {
     padding: 12px 0;
 }
+.cart-mob {
+    left: -10px;
+}
 
 #opensidebarmenu {
     background-color: transparent;
