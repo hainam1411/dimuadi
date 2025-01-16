@@ -1,6 +1,4 @@
 :root {
-    --bs-green: #198754;
-    --bs-teal: #20c997;
     --bs-cyan: #0dcaf0;
     --bs-white: #fff;
     --bs-gray: #6c757d;
@@ -22,9 +20,15 @@
     margin: 0;
     padding: 0;
 }
+
+.container {
+    width: 100%;
+    background-color: #E5EBED;
+    padding: 0;
+}
 .container-fluid {
     width:992px;
-    background-color: #E5EBED;
+
     padding: 0;
 }
 
