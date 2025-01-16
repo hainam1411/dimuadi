@@ -21,14 +21,9 @@
     padding: 0;
 }
 
-.container {
-    width: 100%;
-    background-color: #E5EBED;
-    padding: 0;
-}
+
 .container-fluid {
     width:992px;
-
     padding: 0;
 }
 
