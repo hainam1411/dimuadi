@@ -97,6 +97,11 @@
 
 .recommend-prod {
     grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 14px;
+}
+.content-prod
+{
+    padding-bottom: 12px;
 }
 
 
