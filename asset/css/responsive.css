@@ -1,18 +1,10 @@
 @media screen and (max-width: 900px) {
-    .top-banner,
-    .prod-items,
-    .category,
-    .item-voucher,
-    .slick-list {
-        overflow-x: scroll;
-    }
     .list-item-home,
     .box-scroll {
         justify-content: unset;
         overflow-x: scroll;
     }
-    .search-li,
-    .logo-li {
+    .nav-item, .search-li{
         display: none;
     }
     .logo_mobile,
@@ -31,6 +23,8 @@
         justify-content: unset;
     }
 }
+
+
 @media screen and (max-width:600px) {
     .recommend-prod {
         grid-template-columns: repeat(3, minmax(0, 1fr));

@@ -2,7 +2,7 @@
     background-color: #e5e5e5;
 }
 .top-nav {
-    max-width: 992px;
+    width: 992px;
     height: 36px;
     text-align: right;
     background-color: #e5e5e5;
@@ -26,7 +26,7 @@
     padding: 12px 0;
 }
 .box-header {
-    max-width: 992px;
+    width: 992px;
 }
 
 .menu-li {
