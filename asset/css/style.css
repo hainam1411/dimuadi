@@ -24,6 +24,7 @@
 
 
 .container {
+    max-width: 992px;
     padding: 0;
 }
 

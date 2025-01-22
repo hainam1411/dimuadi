@@ -1,16 +1,8 @@
-.footer{
+.footer {
     background: #DCE3EC;
-
 }
-/*.footer-menu, .footer-second {*/
-/*    max-width: 992px;*/
-/*}*/
 .f-menu {
     padding: 40px 15px;
-}
-.footer-menu
-{
-    max-width: 992px;
 }
 
 .footer-item ul {
@@ -30,7 +22,6 @@
 }
 
 .company-info {
-    line-height: 5px;
     padding: 20px 40px;
     color: var(--bs-white);
     font-size: 12px;
